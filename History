@@ -1,3 +1,7 @@
+0.6.13 - July 29, 2009
+* 1 minor tweak
+  * Bumped oauth dependency version to 0.3.5.
+
 0.6.12 - June 26, 2009
 * 2 minor additions
   * fixed fakeweb test issue (obie fernandez)
